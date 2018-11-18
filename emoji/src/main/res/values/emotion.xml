@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="type">　
+        <item>emotion</item>
+        　　
+        <item></item>
+        　　
+        <item></item>
+        　　
+        <item></item>
+        　　
+        <item></item>
+    </string-array>
+
+    <string-array name="unicode">　
+        <item>1F600</item>
+        　　
+        <item>1F603</item>
+        　　
+        <item>1F604</item>
+        　　
+        <item>1F601</item>
+        　　
+        <item>1F606</item>
+        <item>1F605</item>
+        <item>1F923</item>
+        <item>1F602</item>
+        <item>1F642	</item>
+        <item>1F643</item>
+        <item>1F609</item>
+        <item>1F60A</item>
+        <item>1F970</item>
+        <item>1F60D</item>
+        <item>1F929</item>
+        <item>1F618</item>
+        <item>1F619</item>
+        <item>1F60B</item>
+        <item>1F61D</item>
+        <item>1F92D</item>
+        <item>1F92B</item>
+        <item>1F914	</item>
+        <item>1F610</item>
+        <item>1F636</item>
+        <item>1F60F</item>
+        <item>1F612</item>
+        <item>1F644</item>
+        <item>1F62C</item>
+        <item>1F60C</item>
+        <item>1F614</item>
+
+        <item>1F62A</item>
+        <item>1F634</item>
+        <item>1F637</item>
+        <item>1F60E	</item>
+        <item>1F913	</item>
+        <item>1F641	</item>
+        <item>2639</item>
+        <item>1F62E</item>
+        <item>1F62F</item>
+        <item>1F633</item>
+        <item>1F627</item>
+        <item>1F628</item>
+        <item>1F630	</item>
+        <item>1F625</item>
+        <item>1F622	</item>
+        <item>1F62D</item>
+        <item>1F631</item>
+        <item>1F624	</item>
+        <item>1F621</item>
+        <item>1F620</item>
+        <item>1F608</item>
+        <item>1F47B</item>
+        <item>1F648	</item>
+        <item>1F649</item>
+        <item>1F64A</item>
+
+        <!--符号-->
+        <item>1F48B</item>
+
+        <item>1F48C</item>
+        <item>1F498</item>
+        <item>1F493</item>
+        <item>1F495	</item>
+        <item>1F49D	</item>
+        <item>1F494	</item>
+        <item>2764</item>
+        <item>1F4AF	</item>
+        <item>1F4A2	</item>
+        <item>1F4A5</item>
+        <item>1F4A6</item>
+        <item>1F4A8</item>
+        <item>1F4A3	</item>
+        <item>1F4AC</item>
+        <item>1F4A4	</item>
+        <item>1F44B</item>
+        <item>1F91A</item>
+        <item>1F590	</item>
+        <item>270B</item>
+        <item>1F596</item>
+        <item>1F44C</item>
+        <item>270C</item>
+        <item>1F91E	</item>
+        <item>1F91F</item>
+        <item>1F918</item>
+        <!-- http://www.unicode.org/emoji/charts/emoji-list.html -->
+    </string-array>
+</resources>
